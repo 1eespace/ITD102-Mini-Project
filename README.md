@@ -1,6 +1,4 @@
-# ITD102-Mini-Project
-
-# Smart Home System with Raspberry Pi
+# ITD102-Mini-Project: Smart Home System with Raspberry Pi
 
 ## 📌 Project Overview
 
